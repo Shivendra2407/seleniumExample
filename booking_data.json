@@ -1,0 +1,127 @@
+[
+    {
+        "name": " Catalonia Sagrada Familia",
+        "score": "8.2",
+        "location": "Arag\u00f3 577-579, Sant Mart\u00ed, 08026 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Swimming pool",
+            "Pet friendly",
+            "Non-smoking rooms",
+            "Fitness center",
+            "Bar"
+        ],
+        "stars": "3-star hotel"
+    },
+    {
+        "name": "mes Livingston"
+    },
+    {
+        "name": "mes Habitat Apartments Alibei",
+        "score": "8.0",
+        "location": "Carrer d'Al\u00ed Bei, 29, Eixample, 08010 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "mes MH Apartments Center",
+        "score": "8.6",
+        "location": "Comte Borrell, 73, Eixample, 08015 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "mes Top Barcelona Apartments",
+        "score": "7.7",
+        "location": "Different locations, Ciutat Vella, 08003 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Air conditioning",
+            "Heating"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "mes Classbedroom Apartments IV",
+        "score": "9.0",
+        "location": "Avinguda Rius i Taulet, 1, Sants-Montju\u00efc, 08004 Barcelona, Spain",
+        "popular_facilities": [
+            "Family rooms",
+            "WiFi",
+            "Elevator"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "Student accommodation Residencia Universitaria Tagas",
+        "score": "7.8",
+        "location": "Hospital, 23, Ciutat Vella, 08001 Barcelona, Spain",
+        "popular_facilities": [
+            "Parking",
+            "Free WiFi",
+            "Non-smoking rooms",
+            "24-hour front desk",
+            "Terrace",
+            "Elevator"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "me Stay U-nique Calabria",
+        "score": "8.4",
+        "location": "Calabria, 207, Eixample, 08029 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "mes Habitat Apartments Bail\u00e9n",
+        "score": "7.9",
+        "location": "Carrer de Bail\u00e8n, 22, Eixample, 08010 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Elevator",
+            "Air conditioning",
+            "Heating"
+        ],
+        "stars": "Unrated"
+    },
+    {
+        "name": "me Royal Aribau NextDoor",
+        "score": "8.5",
+        "location": "105 Carrer d'Aribau, Eixample, 08036 Barcelona, Spain",
+        "popular_facilities": [
+            "Free WiFi",
+            "Airport shuttle",
+            "Family rooms",
+            "Non-smoking rooms",
+            "Elevator",
+            "Air conditioning"
+        ],
+        "stars": "Unrated"
+    }
+]
